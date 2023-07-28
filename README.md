@@ -1,6 +1,6 @@
 # MLB-Grid-Game
 
-Immaculate Grid Clone. You have 9 guesses to correctly answer an MLB player who has played for the two teams in each grid.
+Immaculate Grid Clone built with React. You have 9 guesses to correctly answer an MLB player who has played for the two teams in each grid.
 
 # Getting Started with Create React App
 

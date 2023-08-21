@@ -21,6 +21,7 @@ npm install
 npm start
 ```
 This should open the browser automatically, but if it does not, just go to `http://localhost:3000` to play.
+
 5. Guess away and have fun!
 
 ## How to Play
